@@ -239,11 +239,15 @@ a {
 .box-1>p,
 .box-2>p,
 .box-3>p,
-.box-4>p,
 .box-5>p,
 .box-6>p {
     margin: 0px 10px 10px 10px;
 }
+
+.box-4>p{
+
+    padding:0px 10px;
+    }
 
 @media screen and (max-width:768px) {
     .about-con2 {
